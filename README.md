@@ -17,4 +17,5 @@ BACKEND
 
 EXTRA
 
-![image](https://user-images.githubusercontent.com/112492580/210075330-58b1fa9d-5802-4824-94a8-a392ce1b5411.png)
+![image](https://user-images.githubusercontent.com/112492580/210075330-58b1fa9d-5802-4824-94a8-a392ce1b5411.png) 
+![image](https://icongr.am/devicon/github-original.svg?size=30&color=ffffff)
