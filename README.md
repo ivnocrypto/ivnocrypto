@@ -15,7 +15,7 @@ Additionally, I am someone who values teamwork and loves challenges. I always st
 ![image](https://user-images.githubusercontent.com/112492580/210075015-53db6c62-3cd9-4e22-a29f-9f2e11d26f16.png)
 
 
-### BACKEND
+### DB
 
 ![image](https://user-images.githubusercontent.com/112492580/210075172-9b967819-066f-4a9d-832a-6e4d821e88ed.png)
 ![image](https://icongr.am/devicon/postgresql-original-wordmark.svg?size=40&color=ffffff)
