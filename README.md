@@ -3,27 +3,42 @@
 Additionally, I am someone who values teamwork and loves challenges. I always strive to stay updated on trends and advancements in the technology world, as I believe that by working together we can achieve even better results and efficiently achieve our goals. I am excited to collaborate and learn from other members of the technology and cryptography community.
 
 
-### BASICS
+### LANGUAGES
 
-![image](https://icongr.am/devicon/html5-original-wordmark.svg?size=40&color=currentColor) 
-![image](https://icongr.am/devicon/css3-original.svg?size=30&color=ffffff) 
-![image](https://icongr.am/devicon/javascript-original.svg?size=30&color=ffffff) 
-![image](https://icongr.am/devicon/typescript-original.svg?size=30&color=ffffff)
+![html5](https://icongr.am/devicon/html5-original-wordmark.svg?size=40&color=currentColor) &nbsp;
+![css3](https://icongr.am/devicon/css3-original.svg?size=30&color=ffffff) &nbsp;
+![image](https://icongr.am/devicon/javascript-original.svg?size=30&color=ffffff) &nbsp;
+![](https://icongr.am/devicon/typescript-original.svg?size=30&color=ffffff) &nbsp;
 
-### FRAMEWORK
+### FRAMEWORKS
 
-![image](https://user-images.githubusercontent.com/112492580/210075015-53db6c62-3cd9-4e22-a29f-9f2e11d26f16.png)
+![image](https://icongr.am/devicon/react-original-wordmark.svg?size=40&color=currentColor) &nbsp;
+![image](https://icongr.am/devicon/express-original.svg?size=45&color=currentColor)
+&nbsp;
+![image](https://icongr.am/devicon/sequelize-plain.svg?size=45&color=currentColor) &nbsp; 
 
-
-### DATABASE
-
-![image](https://user-images.githubusercontent.com/112492580/210075172-9b967819-066f-4a9d-832a-6e4d821e88ed.png)
-![image](https://icongr.am/devicon/postgresql-original-wordmark.svg?size=40&color=ffffff)
-![image](https://icongr.am/devicon/mongodb-original-wordmark.svg?size=40&color=ffffff)
-
-
-
-### EXTRA
+### ENVIROMEMTS
 
 ![image](https://user-images.githubusercontent.com/112492580/210075330-58b1fa9d-5802-4824-94a8-a392ce1b5411.png) 
+&nbsp;
+&nbsp;
 ![image](https://icongr.am/devicon/git-original.svg?size=40&color=currentColor)
+![image](https://icongr.am/simple/visualstudio.svg?size=45&color=currentColor&colored=false) 
+&nbsp;
+![image](https://icongr.am/devicon/docker-original-wordmark.svg?size=40&color=currentColor) 
+&nbsp;
+![image](https://icongr.am/devicon/nodejs-original.svg?size=40&color=currentColor) 
+&nbsp;
+![image](https://icongr.am/devicon/ubuntu-plain-wordmark.svg?size=40&color=currentColor) 
+&nbsp;
+![image](https://icongr.am/devicon/apple-original.svg?size=40&color=currentColor) 
+&nbsp;
+
+### DATABASES
+
+![image](https://icongr.am/devicon/mysql-original.svg?size=40&color=currentColor) &nbsp;&nbsp; 
+![image](https://icongr.am/devicon/postgresql-original-wordmark.svg?size=40&color=ffffff) &nbsp;&nbsp; 
+![image](https://icongr.am/devicon/mongodb-original-wordmark.svg?size=40&color=ffffff) &nbsp;&nbsp; 
+
+
+
