@@ -30,7 +30,7 @@ Additionally, I am someone who values teamwork and loves challenges. I always st
 
 ### ENVIROMENTS
 
-![image](https://user-images.githubusercontent.com/112492580/210075330-58b1fa9d-5802-4824-94a8-a392ce1b5411.png) 
+![image](https://icongr.am/devicon/github-original-wordmark.svg?size=45&color=currentColor) 
 &nbsp;
 &nbsp;
 ![image](https://icongr.am/devicon/git-original.svg?size=45&color=currentColor)
