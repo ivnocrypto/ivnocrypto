@@ -15,7 +15,7 @@ Additionally, I am someone who values teamwork and loves challenges. I always st
 ![image](https://icongr.am/devicon/javascript-original.svg?size=45&color=ffffff) 
 &nbsp;
 &nbsp;
-![](https://icongr.am/devicon/typescript-original.svg?size=45&color=ffffff)
+![typescript](https://icongr.am/devicon/typescript-original.svg?size=45&color=ffffff)
 &nbsp;
 ### FRAMEWORKS
 &nbsp;
