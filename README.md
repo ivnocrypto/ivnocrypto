@@ -55,13 +55,13 @@ Additionally, I am someone who values teamwork and loves challenges. I always st
 ### DATABASES
 &nbsp;
 &nbsp;
-![image](https://icongr.am/devicon/mysql-original.svg?size=45&color=currentColor) 
+![image](https://icongr.am/devicon/mysql-original-wordmark.svg?size=55&color=currentColor) 
 &nbsp;
 &nbsp; 
-![image](https://icongr.am/devicon/postgresql-original-wordmark.svg?size=45&color=ffffff) 
+![image](https://icongr.am/devicon/postgresql-original-wordmark.svg?size=50&color=ffffff) 
 &nbsp;
 &nbsp; 
-![image](https://icongr.am/devicon/mongodb-original-wordmark.svg?size=45&color=ffffff) 
+![image](https://icongr.am/devicon/mongodb-original-wordmark.svg?size=50&color=ffffff) 
 &nbsp;
 &nbsp; 
 
