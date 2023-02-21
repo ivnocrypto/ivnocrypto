@@ -20,7 +20,7 @@ Additionally, I am someone who values teamwork and loves challenges. I always st
 ### FRAMEWORKS
 &nbsp;
 &nbsp;
-![image](https://icongr.am/devicon/react-original-wordmark.svg?size=45&color=currentColor) 
+![react](https://icongr.am/devicon/react-original-wordmark.svg?size=45&color=currentColor) 
 &nbsp;
 &nbsp;
 ![image](https://icongr.am/devicon/express-original.svg?size=45&color=currentColor)
