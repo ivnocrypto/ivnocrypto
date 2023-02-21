@@ -12,7 +12,7 @@ Additionally, I am someone who values teamwork and loves challenges. I always st
 ![css3](https://icongr.am/devicon/css3-original-wordmark.svg?size=45&color=currentColor) 
 &nbsp;
 &nbsp;
-![image](https://icongr.am/devicon/javascript-original.svg?size=45&color=ffffff) 
+![jacascript](https://icongr.am/devicon/javascript-original.svg?size=45&color=ffffff) 
 &nbsp;
 &nbsp;
 ![typescript](https://icongr.am/devicon/typescript-original.svg?size=45&color=ffffff)
@@ -41,13 +41,13 @@ Additionally, I am someone who values teamwork and loves challenges. I always st
 &nbsp;
 ![docker](https://icongr.am/devicon/docker-original-wordmark.svg?size=45&color=currentColor) 
 &nbsp;
-![image](https://icongr.am/devicon/nodejs-original.svg?size=45&color=currentColor) 
+![nodejs](https://icongr.am/devicon/nodejs-original.svg?size=45&color=currentColor) 
 &nbsp;
 &nbsp;
-![image](https://icongr.am/devicon/ubuntu-plain-wordmark.svg?size=45&color=currentColor) 
+![ubuntu](https://icongr.am/devicon/ubuntu-plain-wordmark.svg?size=45&color=currentColor) 
 &nbsp;
 &nbsp;
-![image](https://icongr.am/devicon/apple-original.svg?size=45&color=currentColor) 
+![apple](https://icongr.am/devicon/apple-original.svg?size=45&color=currentColor) 
 &nbsp;
 &nbsp;
 &nbsp;
@@ -55,13 +55,13 @@ Additionally, I am someone who values teamwork and loves challenges. I always st
 ### DATABASES
 &nbsp;
 &nbsp;
-![image](https://icongr.am/devicon/mysql-original-wordmark.svg?size=55&color=currentColor) 
+![mysql](https://icongr.am/devicon/mysql-original-wordmark.svg?size=55&color=currentColor) 
 &nbsp;
 &nbsp; 
-![image](https://icongr.am/devicon/postgresql-original-wordmark.svg?size=50&color=ffffff) 
+![postgresql](https://icongr.am/devicon/postgresql-original-wordmark.svg?size=50&color=ffffff) 
 &nbsp;
 &nbsp; 
-![image](https://icongr.am/devicon/mongodb-original-wordmark.svg?size=50&color=ffffff) 
+![mongodb](https://icongr.am/devicon/mongodb-original-wordmark.svg?size=50&color=ffffff) 
 &nbsp;
 &nbsp; 
 
