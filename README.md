@@ -41,7 +41,7 @@ Additionally, I am someone who values teamwork and loves challenges. I always st
 &nbsp;
 ![docker](https://icongr.am/devicon/docker-original-wordmark.svg?size=45&color=currentColor) 
 &nbsp;
-![nodejs](https://icongr.am/devicon/nodejs-original.svg?size=45&color=currentColor) 
+![nodejs](https://icongr.am/devicon/nodejs-original-wordmark.svg?size=75&color=currentColor) 
 &nbsp;
 &nbsp;
 ![ubuntu](https://icongr.am/devicon/ubuntu-plain-wordmark.svg?size=45&color=currentColor) 
