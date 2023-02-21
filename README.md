@@ -33,13 +33,13 @@ Additionally, I am someone who values teamwork and loves challenges. I always st
 ![image](https://icongr.am/devicon/github-original-wordmark.svg?size=45&color=currentColor) 
 &nbsp;
 &nbsp;
-![image](https://icongr.am/devicon/git-original.svg?size=45&color=currentColor)
+![git](https://icongr.am/devicon/git-original-wordmark.svg?size=45&color=currentColor)
 &nbsp;
 &nbsp;
-![image](https://icongr.am/simple/visualstudio.svg?size=45&color=currentColor&colored=false) 
+![visualstudio](https://icongr.am/simple/visualstudio.svg?size=45&color=currentColor&colored=false) 
 &nbsp;
 &nbsp;
-![image](https://icongr.am/devicon/docker-original-wordmark.svg?size=45&color=currentColor) 
+![docker](https://icongr.am/devicon/docker-original-wordmark.svg?size=45&color=currentColor) 
 &nbsp;
 ![image](https://icongr.am/devicon/nodejs-original.svg?size=45&color=currentColor) 
 &nbsp;
