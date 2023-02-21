@@ -23,14 +23,14 @@ Additionally, I am someone who values teamwork and loves challenges. I always st
 ![react](https://icongr.am/devicon/react-original-wordmark.svg?size=45&color=currentColor) 
 &nbsp;
 &nbsp;
-![image](https://icongr.am/devicon/express-original.svg?size=45&color=currentColor)
+![express](https://icongr.am/devicon/express-original.svg?size=45&color=currentColor)
 &nbsp;
 &nbsp;
-![image](https://icongr.am/devicon/sequelize-plain.svg?size=45&color=currentColor) &nbsp; 
+![sequelize](https://icongr.am/devicon/sequelize-plain.svg?size=45&color=currentColor) &nbsp; 
 
 ### ENVIROMENTS
 
-![image](https://icongr.am/devicon/github-original-wordmark.svg?size=45&color=currentColor) 
+![github](https://icongr.am/devicon/github-original-wordmark.svg?size=45&color=currentColor) 
 &nbsp;
 &nbsp;
 ![git](https://icongr.am/devicon/git-original-wordmark.svg?size=65&color=currentColor)
