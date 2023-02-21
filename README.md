@@ -4,7 +4,7 @@ Additionally, I am someone who values teamwork and loves challenges. I always st
 &nbsp;
 &nbsp;
 &nbsp;
-### LANGUAGES
+# LANGUAGES
 &nbsp;
 ![html5](https://icongr.am/devicon/html5-original-wordmark.svg?size=45&color=currentColor) 
 &nbsp;
@@ -17,7 +17,7 @@ Additionally, I am someone who values teamwork and loves challenges. I always st
 &nbsp;
 ![typescript](https://icongr.am/devicon/typescript-original.svg?size=45&color=ffffff)
 &nbsp;
-### FRAMEWORKS
+# FRAMEWORKS
 &nbsp;
 &nbsp;
 ![react](https://icongr.am/devicon/react-original-wordmark.svg?size=45&color=currentColor) 
@@ -29,7 +29,7 @@ Additionally, I am someone who values teamwork and loves challenges. I always st
 ![sequelize](https://icongr.am/devicon/sequelize-original-wordmark.svg?size=75&color=currentColor) &nbsp; 
 TypeORM
 
-### ENVIROMENTS
+# ENVIROMENTS
 
 ![github](https://icongr.am/devicon/github-original-wordmark.svg?size=45&color=currentColor) 
 &nbsp;
@@ -53,7 +53,7 @@ TypeORM
 &nbsp;
 &nbsp;
 &nbsp;
-### DATABASES
+# DATABASES
 &nbsp;
 &nbsp;
 ![mysql](https://icongr.am/devicon/mysql-original-wordmark.svg?size=55&color=currentColor) 
