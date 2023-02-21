@@ -26,7 +26,7 @@ Additionally, I am someone who values teamwork and loves challenges. I always st
 ![express](https://icongr.am/devicon/express-original.svg?size=45&color=currentColor)
 &nbsp;
 &nbsp;
-![sequelize](https://icongr.am/devicon/sequelize-plain.svg?size=45&color=currentColor) &nbsp; 
+![sequelize](https://icongr.am/devicon/sequelize-original-wordmark.svg?size=75&color=currentColor) &nbsp; 
 
 ### ENVIROMENTS
 
