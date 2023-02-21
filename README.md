@@ -9,7 +9,7 @@ Additionally, I am someone who values teamwork and loves challenges. I always st
 ![html5](https://icongr.am/devicon/html5-original-wordmark.svg?size=45&color=currentColor) 
 &nbsp;
 &nbsp;
-![css3](https://icongr.am/devicon/css3-original.svg?size=45&color=ffffff) 
+![css3](https://icongr.am/devicon/css3-original-wordmark.svg?size=45&color=currentColor) 
 &nbsp;
 &nbsp;
 ![image](https://icongr.am/devicon/javascript-original.svg?size=45&color=ffffff) 
