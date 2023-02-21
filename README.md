@@ -33,7 +33,7 @@ Additionally, I am someone who values teamwork and loves challenges. I always st
 ![image](https://icongr.am/devicon/github-original-wordmark.svg?size=45&color=currentColor) 
 &nbsp;
 &nbsp;
-![git](https://icongr.am/devicon/git-original-wordmark.svg?size=45&color=currentColor)
+![git](https://icongr.am/devicon/git-original-wordmark.svg?size=65&color=currentColor)
 &nbsp;
 &nbsp;
 ![visualstudio](https://icongr.am/simple/visualstudio.svg?size=45&color=currentColor&colored=false) 
