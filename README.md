@@ -99,6 +99,12 @@ TypeORM
 ![mongodb](https://icongr.am/devicon/mongodb-original-wordmark.svg?size=60&color=ffffff) 
 &nbsp;
 &nbsp; 
-
+&nbsp;
+&nbsp;
+![redis](https://icongr.am/devicon/redis-original-wordmark.svg?size=45&color=currentColor) 
+&nbsp;
+&nbsp; 
+&nbsp;
+&nbsp;
 
 
