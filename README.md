@@ -64,7 +64,7 @@ TypeORM
 &nbsp;
 &nbsp;
 &nbsp;
-![visualstudio](https://icongr.am/simple/visualstudio.svg?size=35&color=currentColor&colored=false) 
+![visualstudio](https://icongr.am/simple/visualstudiocode.svg?size=40&color=currentColor&colored=false) 
 &nbsp;
 &nbsp;
 &nbsp;
