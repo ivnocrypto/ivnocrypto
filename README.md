@@ -1,22 +1,6 @@
 ### 👋 About Me
 &nbsp;
-Hello there! My name is ivnocrypto, and I'm passionate about the world of programming. Ever since 2022, I've been on an exciting journey of learning and exploration in the realm of coding.
-&nbsp;
-### Background
-&nbsp;
-I'm a dedicated programming enthusiast, constantly seeking new challenges and opportunities to expand my skill set. My journey began in 2022 when I embarked on the path of becoming a programmer. Since then, I've been engrossed in the world of coding, eager to explore its endless possibilities.
-&nbsp;
-### Interests
-&nbsp;
-My interests span a wide range of programming languages, frameworks, and technologies. I'm particularly drawn to projects that involve problem-solving, creative thinking, and collaboration. From web development to data analysis, I'm eager to dive into diverse projects that challenge and inspire me.
-&nbsp;
-### Goals
-&nbsp;
-My goal is to not only become a proficient programmer but also to contribute to innovative projects that have a positive impact on the world. I believe that every line of code I write can make a difference, and I'm excited to be part of the global community of developers working towards a better future.
-&nbsp;
-### GitHub Journey
-&nbsp;
-My GitHub journey is a reflection of my growth and progress as a programmer. I'll be sharing my projects, experiments, and contributions to open-source initiatives. Feel free to explore my repositories and follow along as I continue to evolve in the coding universe.
+Hello there! My name is ivnocrypto, and I'm a dedicated programming enthusiast, constantly seeking new challenges and opportunities to expand my skill set. My journey began in 2022 when I embarked on the path of becoming a programmer. Since then, I've been engrossed in the world of coding, eager to explore its endless possibilities.
 &nbsp;
 ### Let's Connect!
 &nbsp;
